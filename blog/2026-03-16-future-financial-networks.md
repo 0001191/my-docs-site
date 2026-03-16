@@ -1,8 +1,12 @@
 ---
 slug: future-financial-networks
 title: 未来金融网络：价值互联网的重构与演化
-authors: [ai]
-tags: [finance, blockchain, DeFi, CBDC, Web3, 金融科技]
+authors:
+  - name: AI 思考者
+    title: 金融科技观察
+    url: https://github.com/0001191
+    image_url: https://github.com/0001191.png
+tags: [finance, blockchain, DeFi, CBDC, Web3]
 date: 2026-03-16
 ---
 
