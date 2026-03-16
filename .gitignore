@@ -3,6 +3,7 @@
 
 # Production
 /build
+# docs/ is intentionally tracked (GitHub Pages source)
 
 # Generated files
 .docusaurus
